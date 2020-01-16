@@ -6,8 +6,28 @@ To predict whether Ronaldo will hit the goal or not. Hitting the goal means 1 in
 
 # Evaluation Criteria
 
-ϵ=1/MAE+1
+##### ϵ=1/MAE+1
 
 MAE : Mean Absolute Error
 
 Our main goal is to reduce MAE and I have done it.
+
+# Competition Details
+
+This competition was held only for IIITDM Kurnool students. The link is as follows: 
+    
+    https://www.kaggle.com/c/google-ai-iiitdm/
+    
+# Results
+
+I trained the model using XGBClassifier and gained the following best result as:
+
+    MAE = 0.37314
+    
+You can check my results from the following link (in Public Leaderborad):
+    
+    https://www.kaggle.com/c/google-ai-iiitdm/leaderboard
+
+And also check my overall submissions from the link:
+
+    https://www.kaggle.com/c/google-ai-iiitdm/submissions
