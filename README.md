@@ -7,3 +7,7 @@ To predict whether Ronaldo will hit the goal or not. Hitting the goal means 1 in
 # Evaluation Criteria
 
 ϵ=1/MAE+1
+
+MAE : Mean Absolute Error
+
+Our main goal is to reduce MAE and I have done it.
