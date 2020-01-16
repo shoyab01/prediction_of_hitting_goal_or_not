@@ -12,7 +12,7 @@ MAE : Mean Absolute Error
 
 Our main goal is to reduce MAE and I have done it.
 
-# Competition Details
+# Kaggle Competition Details
 
 This competition was held only for IIITDM Kurnool students. The link for the competition is  
    
