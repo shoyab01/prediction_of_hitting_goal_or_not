@@ -5,4 +5,5 @@ Given many features as type of match (FIFA, league etc.), Opposition team, locat
 To predict whether Ronaldo will hit the goal or not. Hitting the goal means 1 in is_goal attribute, otherwise 0.
 
 #Evaluation Criteria
+
 ϵ=1/MAE+1
